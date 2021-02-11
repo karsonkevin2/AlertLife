@@ -1,6 +1,6 @@
 # AlertLife
 
-Final project designed for an embedded systems class. 
+Final project designed for an embedded systems class. Designed and constructed with Zain Khan.
 
 A poster report can be found under https://github.com/karsonkevin2/AlertLife/blob/main/Embedded%20Poster.pptx
 
